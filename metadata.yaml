@@ -19,6 +19,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
 description: Provides a description of the various types of glass from around the
   world and explains the processes used in the manufacture of glassware.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20698#The-Story-of-Glass
 gutenberg_bookshelf:
 - Manufacturing
 - Children's Instructional Books
